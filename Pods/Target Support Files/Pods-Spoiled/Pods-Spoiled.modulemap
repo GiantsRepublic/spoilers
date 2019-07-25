@@ -1,0 +1,6 @@
+framework module Pods_Spoiled {
+  umbrella header "Pods-Spoiled-umbrella.h"
+
+  export *
+  module * { export * }
+}
